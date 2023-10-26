@@ -1,5 +1,6 @@
 # Reto 10: Arreglos y listas
 **Instrucciones**
+
 Para cada punto cree un programa individual. Al finalizar suba todo a un repo y subalo al canal reto_10 en slack.
 ## Punto uno
 
