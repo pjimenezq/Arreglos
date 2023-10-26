@@ -48,7 +48,9 @@ if __name__=="__main__":#Función principal
 Revisar que son los algoritmos de sorting, entender bubble-sort.
 
 El _algoritmo de sorting_, está diseñado para cumplir con la función de colocar números o letras en orden.
+
 _Bubble Sort_ es el más simple algoritmo de sorting. Funciona repetidamente, intercambiando los elementos adyacentes cuando están en el orden incorrecto.
+
 Cuando se busca ordenar la lista de forma ascendente el algoritmo empieza con el elemento de la izquierda, comparándolo con el de al lado y ubicando el mayor al lado derecho. De esta manera, el mayor elemento termina en la derecha. Se repite el procedimiento hasta que todos los datos están ordenados.
 
 **Código**
